@@ -1,0 +1,13 @@
+h1 {
+  texte-align:center;
+  font-size:16px;
+}
+.red {
+  color:red;
+}
+.green {
+  color:green;
+}
+.italic {
+  font-style:italic;
+}
